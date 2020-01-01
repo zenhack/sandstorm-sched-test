@@ -4,6 +4,8 @@ golang.org/x/net v0.0.0-20180208041118-f5dfe339be1d h1:lnO2rP1Eit1fCAJKjYJlnArsH
 golang.org/x/net v0.0.0-20180208041118-f5dfe339be1d/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 zenhack.net/go/sandstorm v0.0.0-20191213192830-2294f25e6742 h1:TExyqxF6n28sNax8rw4WtncYh3YMKjvsZVdNJX1Czao=
 zenhack.net/go/sandstorm v0.0.0-20191213192830-2294f25e6742/go.mod h1:nctDv1C0fmgzAe0M/DtptBA/Ug5hSK6MEMkRHExJCNo=
+zenhack.net/go/sandstorm v0.0.0-20191226044636-38bc55e3c21a h1:DKaTj6tGtz9QUhY1gVP15EaClMJGSq+gMnueRml51TY=
+zenhack.net/go/sandstorm v0.0.0-20191226044636-38bc55e3c21a/go.mod h1:nctDv1C0fmgzAe0M/DtptBA/Ug5hSK6MEMkRHExJCNo=
 zombiezen.com/go/capnproto2 v2.17.1-0.20180404044107-e89f9b7f0213+incompatible h1:roPDgwVyDDB1/qOcpbXnow3TaR8W8If716DPLOcu4T8=
 zombiezen.com/go/capnproto2 v2.17.1-0.20180404044107-e89f9b7f0213+incompatible/go.mod h1:XO5Pr2SbXgqZwn0m0Ru54QBqpOf4K5AYBO+8LAOBQEQ=
 zombiezen.com/go/capnproto2 v2.18.0+incompatible h1:mwfXZniffG5mXokQGHUJWGnqIBggoPfT/CEwon9Yess=
